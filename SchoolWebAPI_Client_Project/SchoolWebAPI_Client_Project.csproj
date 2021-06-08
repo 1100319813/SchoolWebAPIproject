@@ -180,6 +180,7 @@
     <Content Include="gabriel-sollmann-Y7d265_7i08-unsplash.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="LoginPage.aspx" />
+    <Content Include="test.txt" />
     <Content Include="UsersIndex.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
